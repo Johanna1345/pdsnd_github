@@ -60,6 +60,7 @@ def time_stats(df):
     # display the most common start hour
 
 
+    print('The average travel time amounts to...')
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
